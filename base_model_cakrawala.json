@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Archipelago - fp8",
+    "id": "828886790992661106",
+    "fileId": "828886790991612532",
+    "projectId": "828884175368008044",
+    "url": "https://tensor.art/models/828886790992661106/Archipelago-fp8"
+  },
+  {
+    "name": "Swastamita - fp16",
+    "id": "829708250732622972",
+    "fileId": "829708250731574397",
+    "projectId": "829468393999532259",
+    "url": "https://tensor.art/models/829708250732622972/Swastamita-fp16"
+  },
+  {
+    "name": "Aestasia - fp8",
+    "id": "829453473272569461",
+    "fileId": "829453473271520886",
+    "projectId": "829374991345779193",
+    "url": "https://tensor.art/models/829453473272569461/Aestasia-fp8"
+  },
+  {
+    "name": "Deep Reality - fp8",
+    "id": "828610744854663776",
+    "fileId": "828610744853615201",
+    "projectId": "828606522912195043",
+    "url": "https://tensor.art/models/828610744854663776/Deep-Reality-fp8"
+  },
+  {
+    "name": "Perfect Master - fp8",
+    "id": "827834545480121529",
+    "fileId": "827834545479072957",
+    "projectId": "827830198983611957",
+    "url": "https://tensor.art/models/827834545480121529/Perfect-Master-fp8"
+  },
+  {
+    "name": "Ultrarealistic Flux - fp8",
+    "id": "827756527399140485",
+    "fileId": "827756527398091910",
+    "projectId": "827578638454203100",
+    "url": "https://tensor.art/models/827756527399140485/Ultrarealistic-Flux-fp8"
+  }
+]
