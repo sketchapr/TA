@@ -14,13 +14,6 @@
     "url": "https://tensor.art/models/829708250732622972/Swastamita-fp16"
   },
   {
-    "name": "Aestasia - fp8",
-    "id": "829453473272569461",
-    "fileId": "829453473271520886",
-    "projectId": "829374991345779193",
-    "url": "https://tensor.art/models/829453473272569461/Aestasia-fp8"
-  },
-  {
     "name": "Deep Reality - fp8",
     "id": "828610744854663776",
     "fileId": "828610744853615201",
@@ -40,5 +33,12 @@
     "fileId": "827756527398091910",
     "projectId": "827578638454203100",
     "url": "https://tensor.art/models/827756527399140485/Ultrarealistic-Flux-fp8"
+  },
+  {
+    "name": "Gleam - fp16",
+    "id": "830435573379500510",
+    "fileId": "830435573378451935",
+    "projectId": "830433391546541033",
+    "url": "https://tensor.art/models/830435573379500510/Gleam-fp16"
   }
 ]
