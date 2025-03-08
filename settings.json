@@ -2,7 +2,7 @@
     "postFileNname" : "posts_nusantara_remix.json",
     "usersFileName" : "users_temp_all_2.json",
     "baseModelFileName" : "base_model_cakrawala.json",
-    "loraFileName" : "lora_model_cakrawala.json",
+    "loraFileName" : "lora_model_nusantara_run.json",
     "strartIndexUser": 0,
     "count_user" : 5,
     "baseModelIndex" : 5,
