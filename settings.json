@@ -6,5 +6,5 @@
     "strartIndexUser": 0,
     "count_user" : 5,
     "baseModelIndex" : 5,
-    "loraModelIndex" : 1
+    "loraModelIndex" : 13
 }
