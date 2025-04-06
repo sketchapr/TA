@@ -5,5 +5,12 @@
     "fileId": "815210236436619255",
     "projectId": "799671500037730282",
     "url": "https://tensor.art/models/815210236437667827/rRealisMAX-X-FLUX-V2.0"
+  },
+  {
+    "name": "WAI-NSFW-illustrious-SDXL-v13",
+    "id": "847660595554636782",
+    "fileId": "847660595553588207",
+    "projectId": "781223550349489715",
+    "url": "https://tensor.art/models/847660595554636782"
   }
 ]
