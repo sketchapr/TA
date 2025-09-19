@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Archipelago - fp8",
+    "id": "909759171895780702",
+    "fileId": "909759171895780704",
+    "projectId": "909756299636397359",
+    "ownerId": "905049715559654984",
+    "url": "https://tensor.art/models/909759171895780702"
+  },
+  {
+    "name": "Ultrarealistic Flux - fp8",
+    "id": "909755574860655256",
+    "fileId": "909755574860655257",
+    "projectId": "909751695431440122",
+    "ownerId": "905049715559654984",
+    "url": "https://tensor.art/models/909755574860655256"
+  },
+  {
+    "name": "Gleam - fp16",
+    "id": "909750089113730909",
+    "fileId": "0",
+    "projectId": "909747486363540417",
+    "ownerId": "905049715559654984",
+    "url": "https://tensor.art/models/909750089113730909"
+  },
+  {
+    "name": "Swastamita - fp8",
+    "id": "909745789851452049",
+    "fileId": "0",
+    "projectId": "909742835987646889",
+    "ownerId": "905049715559654984",
+    "url": "https://tensor.art/models/909745789851452049"
+  },
+  {
+    "name": "Perfect Master - fp8",
+    "id": "909740833459173662",
+    "fileId": "0",
+    "projectId": "909738169505688580",
+    "ownerId": "905049715559654984",
+    "url": "https://tensor.art/models/909740833459173662"
+  },
+  {
+    "name": "Deep Reality - fp8",
+    "id": "909735201683331867",
+    "fileId": "909735201683331869",
+    "projectId": "909518149068545962",
+    "ownerId": "905049715559654984",
+    "url": "https://tensor.art/models/909735201683331867"
+  }
+]
