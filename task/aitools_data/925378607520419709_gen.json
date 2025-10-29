@@ -1,0 +1,115 @@
+{
+	"workflowTemplateId": "925378607520419709",
+	"field": {
+		"tensorNodes": [
+			{
+				"nodeId": "38",
+				"nodeName": "TensorArt_PromptText",
+				"fieldName": "Text",
+				"fieldValue": "Nova-Zero,",
+				"fieldDisplayName": "Mecha  Name",
+				"description": "Select creature name",
+				"extraNodeMeta": "{\"inputType\":\"radio\",\"options\":[{\"key\":\"Character Name\",\"label\":\"Character Name\",\"children\":[{\"label\":\"Nova-Zero\",\"key\":\"Nova-Zero\",\"custom\":true},{\"label\":\"Titan-V\",\"key\":\"Titan-V\",\"custom\":true},{\"label\":\"EchoBlade\",\"key\":\"EchoBlade\",\"custom\":true}],\"checked\":true}]}",
+				"showImage": false,
+				"tusiUrl": "",
+				"tensorUrl": ""
+			},
+			{
+				"nodeId": "60",
+				"nodeName": "TensorArt_PromptText",
+				"fieldName": "Text",
+				"fieldValue": "anime,",
+				"fieldDisplayName": "Style",
+				"description": "Select style you want",
+				"extraNodeMeta": "{\"inputType\":\"radio\",\"options\":[{\"key\":\"Styles\",\"label\":\"Styles\",\"children\":[{\"label\":\"cyberpunk\",\"key\":\"cyberpunk\",\"custom\":true},{\"label\":\"anime\",\"key\":\"anime\",\"custom\":true},{\"label\":\"3D render\",\"key\":\"3D render\",\"custom\":true},{\"label\":\"blueprint schematic\",\"key\":\"blueprint schematic\",\"custom\":true},{\"label\":\"photography\",\"key\":\"photography\",\"custom\":true}],\"checked\":true}]}",
+				"showImage": false,
+				"tusiUrl": "",
+				"tensorUrl": ""
+			},
+			{
+				"nodeId": "44",
+				"nodeName": "TensorArt_PromptText",
+				"fieldName": "Text",
+				"fieldValue": "neon city,",
+				"fieldDisplayName": "Location",
+				"description": "Select location you want",
+				"extraNodeMeta": "{\"inputType\":\"radio\",\"options\":[{\"key\":\"Place\",\"label\":\"Place\",\"children\":[{\"label\":\"neon city\",\"key\":\"neon city\",\"custom\":true},{\"label\":\"abandoned factory\",\"key\":\"abandoned factory\",\"custom\":true},{\"label\":\"orbital base\",\"key\":\"orbital base\",\"custom\":true}],\"checked\":true}]}",
+				"showImage": false,
+				"tusiUrl": "",
+				"tensorUrl": ""
+			},
+			{
+				"nodeId": "46",
+				"nodeName": "TensorArt_PromptText",
+				"fieldName": "Text",
+				"fieldValue": "under red alert,",
+				"fieldDisplayName": "Lighting",
+				"description": "Select lighting style you want",
+				"extraNodeMeta": "{\"inputType\":\"radio\",\"options\":[{\"key\":\"Styles\",\"label\":\"Styles\",\"children\":[{\"label\":\"neon reflections\",\"key\":\"neon reflections\",\"custom\":true},{\"label\":\"under red alert\",\"key\":\"under red alert\",\"custom\":true},{\"label\":\"holographic glow\",\"key\":\"holographic glow\",\"custom\":true}],\"checked\":true}]}",
+				"showImage": false,
+				"tusiUrl": "",
+				"tensorUrl": ""
+			},
+			{
+				"nodeId": "49",
+				"nodeName": "TensorArt_PromptText",
+				"fieldName": "Text",
+				"fieldValue": "post-apocalyptic wasteland,",
+				"fieldDisplayName": "Environment Type",
+				"description": "Select environment type you want",
+				"extraNodeMeta": "{\"inputType\":\"radio\",\"options\":[{\"key\":\"Environment\",\"label\":\"Environment\",\"children\":[{\"label\":\"natural environment\",\"key\":\"natural environment\",\"custom\":true},{\"label\":\"urban cityscape\",\"key\":\"urban cityscape\",\"custom\":true},{\"label\":\"mystical fantasy realm\",\"key\":\"mystical fantasy realm\",\"custom\":true},{\"label\":\"underwater world\",\"key\":\"underwater world\",\"custom\":true},{\"label\":\"futuristic environment\",\"key\":\"futuristic environment\",\"custom\":true},{\"label\":\"ancient ruins\",\"key\":\"ancient ruins\",\"custom\":true},{\"label\":\"snowy tundra\",\"key\":\"snowy tundra\",\"custom\":true},{\"label\":\"volcanic landscape\",\"key\":\"volcanic landscape\",\"custom\":true},{\"label\":\"ethereal dream world\",\"key\":\"ethereal dream world\",\"custom\":true},{\"label\":\"magical forest\",\"key\":\"magical forest\",\"custom\":true},{\"label\":\"cosmic space scene\",\"key\":\"cosmic space scene\",\"custom\":true},{\"label\":\"post-apocalyptic wasteland\",\"key\":\"post-apocalyptic wasteland\",\"custom\":true}],\"checked\":true}]}",
+				"showImage": false,
+				"tusiUrl": "",
+				"tensorUrl": ""
+			},
+			{
+				"nodeId": "51",
+				"nodeName": "TensorArt_PromptText",
+				"fieldName": "Text",
+				"fieldValue": "reflective puddles,",
+				"fieldDisplayName": "Environment Detail",
+				"description": "Add environment_detail you want",
+				"extraNodeMeta": "{\"inputType\":\"radio\",\"options\":[{\"key\":\"Environment\",\"label\":\"Environment\",\"children\":[{\"label\":\"glowing mushrooms\",\"key\":\"glowing mushrooms\",\"custom\":true},{\"label\":\"ancient stone statues\",\"key\":\"ancient stone statues\",\"custom\":true},{\"label\":\"floating energy crystals\",\"key\":\"floating energy crystals\",\"custom\":true},{\"label\":\"cherry blossom petals\",\"key\":\"cherry blossom petals\",\"custom\":true},{\"label\":\"luminous fog, fireflies\",\"key\":\"luminous fog, fireflies\",\"custom\":true},{\"label\":\"shattered holograms\",\"key\":\"shattered holograms\",\"custom\":true},{\"label\":\"flowing waterfalls\",\"key\":\"flowing waterfalls\",\"custom\":true},{\"label\":\"aurora sky\",\"key\":\"aurora sky\",\"custom\":true},{\"label\":\"electric sparks\",\"key\":\"electric sparks\",\"custom\":true},{\"label\":\"magical runes\",\"key\":\"magical runes\",\"custom\":true},{\"label\":\"broken tech devices\",\"key\":\"broken tech devices\",\"custom\":true},{\"label\":\"reflective puddles\",\"key\":\"reflective puddles\",\"custom\":true},{\"label\":\"falling leaves\",\"key\":\"falling leaves\",\"custom\":true}],\"checked\":true}]}",
+				"showImage": false,
+				"tusiUrl": "",
+				"tensorUrl": ""
+			},
+			{
+				"nodeId": "41",
+				"nodeName": "TensorArt_SelectResolution",
+				"fieldName": "size_selected",
+				"fieldValue": "9:16 [720x1280 portrait]",
+				"fieldDisplayName": "Select Resolution",
+				"description": "",
+				"extraNodeMeta": "",
+				"showImage": false,
+				"tusiUrl": "",
+				"tensorUrl": ""
+			},
+			{
+				"nodeId": "42",
+				"nodeName": "TensorArt_Seed",
+				"fieldName": "seed",
+				"fieldValue": 254914815547083,
+				"fieldDisplayName": "Seed",
+				"description": "",
+				"extraNodeMeta": "",
+				"showImage": false,
+				"tusiUrl": "",
+				"tensorUrl": ""
+			},
+			{
+				"nodeId": "39",
+				"nodeName": "TensorArt_SelectBatchs",
+				"fieldName": "batch_size",
+				"fieldValue": 1,
+				"fieldDisplayName": "[39]TensorArt_SelectBatchs",
+				"description": "",
+				"extraNodeMeta": "",
+				"showImage": false,
+				"tusiUrl": "",
+				"tensorUrl": ""
+			}
+		]
+	}
+}
